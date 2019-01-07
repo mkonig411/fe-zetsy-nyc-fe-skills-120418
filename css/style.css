@@ -6,9 +6,7 @@
   src: url(Baskerville.ttc);
 }
 
-header {
-  font-family: Baskerville;
-}
+
 
 /*////////// Global Styles //////////*/
 
@@ -26,3 +24,7 @@ body {
 }
 
 /* Write all remaining styles here */
+
+header {
+  font-family: Baskerville;
+}
