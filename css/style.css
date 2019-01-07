@@ -1,9 +1,15 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-header {
-  font-family: 'Baskerville.ttc';
+@font-face {
+  font-family: Baskerville;
+  src: url(Baskerville.ttc);
 }
+
+header {
+  font-family: Baskerville;
+}
+
 /*////////// Global Styles //////////*/
 
 body {
